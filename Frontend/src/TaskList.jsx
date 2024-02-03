@@ -194,7 +194,7 @@ const [Tasks,setTasks] = useState([])
                                 state:{task:task}}}>
                         <div className="flex items-center">
                           <div className="mr-2"></div>
-                          <span className="font-medium">{task.title}</span>
+                          <p className="font-medium whitespace-pre-wrap">{task.title}</p>
                         </div>{" "}
                       </Link>
                     </td>
