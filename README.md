@@ -2,6 +2,11 @@
 
 [https://notes-api-6922.onrender.com/](https://task-tracker-2ou2.onrender.com/)
 
+## Test Credentials 
+
+Email :-baba4@gmail.com
+Pass :- 1234qweR
+
 ### Features 
 
 1. Auth using jwt cookies
