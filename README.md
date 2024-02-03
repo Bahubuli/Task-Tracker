@@ -16,5 +16,11 @@
 
    ![image](https://github.com/Bahubuli/Task-Tracker/assets/33808010/b95de8ac-4193-4594-a463-b172efae2eb0)
 
+![image](https://github.com/Bahubuli/Task-Tracker/assets/33808010/938b1d62-203d-4478-893b-5f4b1025a71c)
+
+![image](https://github.com/Bahubuli/Task-Tracker/assets/33808010/8401ea4d-d2a1-4015-8965-595bf51a85be)
+
+
+
 
 
